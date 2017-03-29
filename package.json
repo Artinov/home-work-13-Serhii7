@@ -1,0 +1,23 @@
+{
+  "name": "sergey",
+  "version": "1.0.0",
+  "description": "HomeWork13",
+  "main": "index.js",
+  "dependencies": {
+    "str_replace": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artinov/home-work-13-Serhii7.git"
+  },
+  "author": "Pedorenko Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artinov/home-work-13-Serhii7/issues"
+  },
+  "homepage": "https://github.com/Artinov/home-work-13-Serhii7#readme"
+}
